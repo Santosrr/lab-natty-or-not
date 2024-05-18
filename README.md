@@ -23,6 +23,7 @@ Junte-se à Busca pela Verdade!
 
 Convidamos você a explorar esta página e mergulhar no fascinante mundo do Saci Pererê. Descubra relatos emocionantes, analise evidências convincentes e embarque em uma jornada para desvendar os segredos por trás desta figura lendária. Junte-se a nós na busca pela verdade sobre o Saci Pererê!
 
+
 ### Template
 
 ```markdown
@@ -33,6 +34,7 @@ Você já ouviu falar do lendário Saci Pererê? Este ser mítico, profundamente
 
 ## 🤖 Tecnologias Utilizadas
 (https://chatgpt.com/c/c2625ded-4941-4033-8528-814736b98028)
+https://studio.d-id.com/?video=clp_uhQDjLRprakutrGa1VT4x
 
 ## 🧐 Processo de Criação
 Solicitado para IA criar uma página sobre Saci-Perere
@@ -45,7 +47,5 @@ Convidamos você a explorar esta página e mergulhar no fascinante mundo do Saci
 Nota: Esta página é uma obra de ficção e tem o objetivo exclusivo de entretenimento. O Saci Pererê é uma figura do folclore brasileiro e não há evidências científicas de sua existência real.
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-
 
 
