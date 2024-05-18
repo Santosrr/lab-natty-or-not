@@ -39,13 +39,17 @@ https://studio.d-id.com/?video=clp_uhQDjLRprakutrGa1VT4x
 ## 🧐 Processo de Criação
 Solicitado para IA criar uma página sobre Saci-Perere
 
+Link do Vídeo Saci-Perere: A verdade 
+https://studio.d-id.com/share?id=cd00799ee9a58327393667a8fc981443&utm_source=copy
+
 ## 🚀 Resultados
 Convidamos você a explorar esta página e mergulhar no fascinante mundo do Saci Pererê. Descubra relatos emocionantes, analise evidências convincentes e embarque em uma jornada para desvendar os segredos por trás desta figura lendária. Junte-se a nós na busca pela verdade sobre o Saci Pererê!
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Nota: Esta página é uma obra de ficção e tem o objetivo exclusivo de entretenimento. O Saci Pererê é uma figura do folclore brasileiro e não há evidências científicas de sua existência real.
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+
+
 
 
