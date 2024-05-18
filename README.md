@@ -4,8 +4,6 @@
 Você já ouviu falar do lendário Saci Pererê? Este ser mítico, profundamente enraizado na cultura folclórica brasileira, tem sido objeto de fascínio e mistério por gerações. Nesta página, exploraremos a verdade por trás do Saci Pererê e revelaremos segredos há muito tempo guardados sobre sua existência!
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
 ## 🎯 O Saci Pererê: Uma Lenda Brasileira
 O Saci Pererê é uma figura lendária do folclore brasileiro, conhecida por sua travessura e travessia habilidosa pelas matas. Descrito como um menino negro de uma perna só, com um gorro vermelho na cabeça e um cachimbo na boca, o Saci tem sido tema de histórias contadas em todo o Brasil.
 ### Evidências da Existência do Saci
